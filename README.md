@@ -61,7 +61,7 @@ Create a .env file in the root directory and specify the following:
   MONGO_URI=your_mongodb_connection_string
   PORT=your_desired_port_number
 ```
-## 3.Run the Application
+### 4.Run the Application
 
 ```bash
   npm start
