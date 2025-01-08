@@ -1,5 +1,5 @@
 
-# HonorCraft
+# ShelfWise
 
 ShelfWise is a web-based Library Management System designed to streamline the process of managing books, members, and transactions in a library. Built with modern web technologies, it provides an intuitive and efficient interface for librarians and users.
 
