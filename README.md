@@ -15,7 +15,7 @@ For Users:
 
 - Browse: Find books based on title, author, or genre.
 
-##Technologies Used
+## Technologies Used
 
 ### Frontend:
 
