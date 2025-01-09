@@ -68,18 +68,18 @@ Create a .env file in the root directory and specify the following:
 ```
 
 
+## Open the Application
+In the terminal, ensure you’re in the folder containing the project and run npm run dev.
+Open the home page in your browser using Live Server for a seamless experience.
+
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
+### Contributions are welcome! Please follow these steps:
 
-Fork the repository.
-
-Create a new branch for your feature or bug fix.
-
-Commit your changes.
-
-Push your branch and create a pull request.
-
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes.
+4. Push your branch and create a pull request.
 ## Contact
 
 For any queries or feedback, feel free to reach out:
